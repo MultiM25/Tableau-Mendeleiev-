@@ -1,3 +1,3 @@
 # Tableau-Mendeleiev-
 
-Projet de fin de semestre 2 Licence Informatique, fait en Python grâce a PyGame, pour l'unité Chimie.
+Projet de fin du semestre 1 de Licence Informatique, fait en Python grâce a PyGame, pour l'unité Chimie.
